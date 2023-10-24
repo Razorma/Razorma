@@ -15,4 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razorma&show_icons=true&locale=en&layout=compact" alt="razorma" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=razorma&show_icons=true&locale=en" alt="razorma" /></p>
+

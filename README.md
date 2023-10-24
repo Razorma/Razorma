@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bheka Jayson Lushaba</h1>
 <h3 align="center">A Passionate Full-Stack-Developer from South Africa</h3>
-<img align="right" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif" width="400" alt="Coding" height="400"/>
+
 
  📫 How to reach me **bheka.bj@gmail.com**
 

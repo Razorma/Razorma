@@ -1,4 +1,4 @@
-[![MasterHead](https://blog.gitguardian.com/content/images/2020/09/20W28-BLOG-Banner-SecretCommit.png)](https://Razorma.io)
+[![MasterHead]([https://blog.gitguardian.com/content/images/2020/09/20W28-BLOG-Banner-SecretCommit.png](https://blog.4d.com/wp-content/uploads/2019/11/gitbanner-1024x511.png))](https://Razorma.io)
 <h1 align="center">Hi 👋, I'm Bheka Jayson Lushaba</h1>
 <h3 align="center">A Passionate Full-Stack-Developer from South Africa</h3>
 <img align="right" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif" width="400" alt="Coding" />
